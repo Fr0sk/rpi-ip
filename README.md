@@ -4,7 +4,7 @@
 Eth0: 
 ```
 ```
-Wlan0: 192.168.43.190
+Wlan0: 10.227.153.78
 ```
-*IP's updated on: Mon 28 Jan 17:06:33 GMT 2019*
+*IP's updated on: Mon 28 Jan 17:10:56 GMT 2019*
 
