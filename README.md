@@ -6,5 +6,5 @@ Eth0:
 ```
 Wlan0: 192.168.43.190
 ```
-*IP's updated on: Mon 28 Jan 16:38:43 GMT 2019*
+*IP's updated on: Mon 28 Jan 17:06:33 GMT 2019*
 
