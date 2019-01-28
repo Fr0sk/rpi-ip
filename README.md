@@ -1,10 +1,10 @@
 
 # ROBO_Pi_AlphaBot1
 ```
-Eth0: 
+Eth0: 192.168.1.26
 ```
 ```
-Wlan0: 10.227.153.78
+Wlan0: 
 ```
-*IP's updated on: Mon 28 Jan 17:10:56 GMT 2019*
+*IP's updated on: Mon 28 Jan 17:17:25 GMT 2019*
 
